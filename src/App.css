@@ -1,0 +1,16 @@
+.app__content{
+    display: flex;
+}
+
+.app__content__videolist{
+    flex: 0.3;
+    background-color:red;
+    padding: 40px 20px;
+    padding-bottom: 0;
+    margin-bottom: 40px;
+}
+
+.app__content__videDetail{
+    flex: 0.7;
+    background-color: blue ;
+}
