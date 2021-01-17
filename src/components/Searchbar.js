@@ -26,7 +26,8 @@ export default class Searchbar extends React.Component {
                         </div>
                         <div>
                             <input className="searchbar__input" onChange={this.handleChange} 
-                            name='video-search'type="text" value={this.state.term}/>
+                            name='video-search'type="text" value={this.state.term}
+                            />
                         </div>
                 </form>
             </div>

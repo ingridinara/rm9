@@ -8,7 +8,7 @@ const VideoItem = ({video , handleVideoSelect}) => {
                 src={video.snippet.thumbnails.medium.url}
                 alt={video.snippet.description}
              />
-            <div>
+            <div className="videoitem__text">
                 <div >{video.snippet.title}</div>
             </div>
         </div>

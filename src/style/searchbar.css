@@ -2,6 +2,7 @@
     border: 1px black solid;
     padding: 5px 10px;
     margin: 20px 5px;  
+    background-color: lightpink;
 }
 
 .searchbar__form{

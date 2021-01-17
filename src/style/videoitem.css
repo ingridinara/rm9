@@ -7,4 +7,9 @@
 .videoitem__video.itm img{
     max-width: 200px;
     max-height: 250px ;
+    padding-bottom: 8px;
+}
+
+.videoitem__text{
+    padding-left: 10px;
 }
