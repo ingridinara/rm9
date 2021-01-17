@@ -1,0 +1,27 @@
+.searchbar{
+    border: 1px black solid;
+    padding: 5px 10px;
+    margin: 20px 5px;  
+}
+
+.searchbar__form{
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-start;
+}
+
+.searchbar__label{
+    font-weight: bold;
+    font-size: larger ;
+}
+
+.searchbar__formlabelbox{
+    padding: 10px 2px;
+}
+
+.searchbar__input{
+    display:flex; 
+    margin: 5px;
+    border: 1px solid black;
+    width: 95%; 
+}
